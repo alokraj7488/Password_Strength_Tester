@@ -3,6 +3,7 @@
 A simple yet powerful Python tool that checks:
 - The strength of your password based on complexity rules
 - Whether your password has been leaked using the [Have I Been Pwned](https://haveibeenpwned.com/ ) API
+  
 🔒 Your privacy is protected: Only a part of the hashed password is sent to the server (k-anonymity model).
 
 ---
