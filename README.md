@@ -21,16 +21,16 @@ Python 3
 Standard Libraries: hashlib, re, requests
 Third-party API: Have I Been Pwned Passwords API
 
-## 🚀 How to Use
+# 🚀 How to Use
 
-### ✅ Clone the Repository
+## ✅ Clone the Repository
 
 ```bash
 git clone  https://github.com/YOUR_USERNAME/password-strength-checker.git 
 cd password-strength-checker
+```
 
-
-🛡️ Security Note
+### 🛡️ Security Note
 This tool uses SHA-1 hashing and the k-anonymity method , so only the first 5 characters of the hash are sent to the API server. This ensures your password remains private and secure.
 
 
