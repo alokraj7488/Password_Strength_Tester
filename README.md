@@ -9,17 +9,17 @@ A simple yet powerful Python tool that checks:
 ---
 
 ## 🧩 Features
- ✔️ Password complexity analysis with actionable feedback
- 🔍 Secure breach detection without sending full password
- 💬 Interactive CLI interface
- 📦 No external databases required
- 🛡️ Fully compliant with k-anonymity best practices
+ - ✔️ Password complexity analysis with actionable feedback
+ - 🔍 Secure breach detection without sending full password
+ - 💬 Interactive CLI interface
+ - 📦 No external databases required
+ - 🛡️ Fully compliant with k-anonymity best practices
 
 
 ### 🛠️ Technologies Used
-Python 3
-Standard Libraries: hashlib, re, requests
-Third-party API: Have I Been Pwned Passwords API
+- Python 3
+- Standard Libraries: hashlib, re, requests
+- Third-party API: Have I Been Pwned Passwords API
 
 # 🚀 How to Use
 
