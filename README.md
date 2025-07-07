@@ -9,11 +9,11 @@ A simple yet powerful Python tool that checks:
 ---
 
 ## 🧩 Features
- - ✔️ Password complexity analysis with actionable feedback
- - 🔍 Secure breach detection without sending full password
- - 💬 Interactive CLI interface
- - 📦 No external databases required
- - 🛡️ Fully compliant with k-anonymity best practices
+ ✔️ Password complexity analysis with actionable feedback
+ 🔍 Secure breach detection without sending full password
+ 💬 Interactive CLI interface
+ 📦 No external databases required
+ 🛡️ Fully compliant with k-anonymity best practices
 
 
 ### 🛠️ Technologies Used
